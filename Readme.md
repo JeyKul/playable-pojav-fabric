@@ -10,8 +10,6 @@ Mods being used:
 
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 
-[Enhanced Block Entities](https://modrinth.com/mod/ebe)
-
 [Entity Culling](https://modrinth.com/mod/entityculling)
 
 [FastQuit](https://modrinth.com/mod/fastquit)
@@ -26,8 +24,6 @@ Mods being used:
 
 [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
 
-[No Fade](https://modrinth.com/mod/no-fade)
-
 [Sodium](https://modrinth.com/mod/sodium)
 
 [Starlight](https://modrinth.com/mod/starlight)
@@ -36,11 +32,7 @@ Mods being used:
 
 [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
 
-[Animatica](https://modrinth.com/mod/animatica)
-
 [Better Mount Hud](https://modrinth.com/mod/better-mount-hud)
-
-[Capes](https://modrinth.com/mod/capes)
 
 [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 
@@ -60,8 +52,6 @@ Mods being used:
 
 [MoreCulling](https://modrinth.com/mod/moreculling)
 
-[MoreCullingExtra](https://modrinth.com/mod/morecullingextra)
-
 [Puzzle](https://modrinth.com/mod/puzzle)
 
 [OptiGUI](https://modrinth.com/mod/optigui)
@@ -80,15 +70,11 @@ Mods being used:
 
 [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes)
 
-[Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
-
 [MixinTrace](https://modrinth.com/mod/mixintrace)
 
 [Mod Menu](https://modrinth.com/mod/modmenu)
 
 [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-
-[Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
 
 [Zoomify](https://modrinth.com/mod/zoomify)
 

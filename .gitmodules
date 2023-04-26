@@ -1,0 +1,3 @@
+[submodule "modrinth-downloader"]
+	path = modrinth-downloader
+	url = https://github.com/tympanicblock61/modrinth-downloader.git
