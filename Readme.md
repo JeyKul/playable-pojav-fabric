@@ -7,17 +7,29 @@ Mods being used:
 ### PERFORMANCE
 
 [Better Beds](https://modrinth.com/mod/better-beds)
+
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+
 [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+
 [Entity Culling](https://modrinth.com/mod/entityculling)
+
 [FastQuit](https://modrinth.com/mod/fastquit)
+
 [FerriteCore](https://modrinth.com/mod/ferrite-core)
+
 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+
 [Language Reload](https://modrinth.com/mod/language-reload)
+
 [Lithium](https://modrinth.com/mod/lithium)
+
 [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
+
 [No Fade](https://modrinth.com/mod/no-fade)
+
 [Sodium](https://modrinth.com/mod/sodium)
+
 [Starlight](https://modrinth.com/mod/starlight)
 
 ### SEXY
