@@ -1,0 +1,1 @@
+python3 modrinth-downloader/main.py config.json
