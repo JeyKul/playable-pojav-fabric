@@ -5,9 +5,7 @@
     "entityculling",
     "immediatelyfast",
     "language-reload",
-    "lithium",
     "memoryleakfix",
-    "sodium",
     "starlight",
     "advancementinfo",
     "better-mount-hud",
@@ -16,8 +14,6 @@
     "moreculling",
     "puzzle",
     "optigui",
-    "reeses-sodium-options",
-    "sodium-extra",
     "debugify",
     "fabricskyboxes",
     "mixintrace",
@@ -42,7 +38,6 @@
     "antighost",
     "e4mc",
     "zoomify",
-    "indium",
     "yacl"
   ]
 }
